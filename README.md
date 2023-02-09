@@ -12,3 +12,15 @@ Estudiante de Informática de la Universidad de Jaén.
 * **Correo**: jmge0004@red.ujaen.es
 * **GitHub**: https://github.com/jmge0004
 * **Trello**: https://trello.com/b/EGvE6PfM/practica-1
+
+
+## Capturas de pantalla
+### Foto del github
+<img src='/fotoGit.JPG'>
+
+### Tablero trello justo al principio
+<img src='/trelloInicio.JPG'>
+
+### Tablero trello justo al final
+<img src='/trelloFinal.JPG'>
+
